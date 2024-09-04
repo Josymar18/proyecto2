@@ -1,0 +1,229 @@
+body {
+    background-color: blue;
+  }
+p
+{
+    color: antiquewhite;
+}
+.sombrero
+{
+    background-color: black;
+    margin: 50px;
+    width: 210px;
+    height: 100px;
+    position: relative;
+    top: 130px;
+    left: 490px;
+}
+.som
+{
+    background-color: rgb(147, 16, 16);
+    width: 300px;
+    height: 60px;
+    position: relative;
+    top: -40px;
+    left: -10px;
+    border-radius: 300px;
+}
+.padre
+{
+    background-color: rgb(243, 208, 165);
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    border-radius: 300px;
+}
+.oreja
+{
+    background-color:  rgb(243, 208, 165);
+    width: 50px;
+    height: 60px;
+    position: absolute;
+    top: 90px;
+    left: 5px;
+    border-radius: 300px;
+}
+.oreja1
+{
+    background-color: rgb(243, 208, 165);
+    width: 50px;
+    height: 60px;
+    position: absolute;
+    top: 90px;
+    left: 260px;
+    border-radius: 300px;
+}
+
+.ojo1
+{
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 90px;
+    left: 70px;
+    border-radius: 300px;
+}
+.oj1
+{
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    position: fixed;
+
+    bottom: 150;
+    right: 150;
+
+    top: 350px;
+    left: 590px;
+    border-radius: 100px;
+    border: 3px solid #0a4ab1;
+}
+.ojo2
+{
+
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 20px;
+    left: 180px;
+    border-radius: 400px;
+}
+.oj2
+{
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    position: fixed;
+    bottom: 150;
+    right: 150;
+
+
+    top: 350px;
+    left: 700px;
+    border-radius: 100px;
+    border: 3px solid #0a4ab1;
+}
+.naris
+{
+    background-color: rgb(90, 7, 1);
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 40px;
+    left: 140px;
+    border-radius: 100px;
+}
+.mejilla1
+{
+    background-color: rgb(248, 117, 77);
+    width: 40px;
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: -120px;
+    border-radius: 100px;
+}
+.mejilla2
+{
+    background-color: rgb(248, 117, 77);
+    width: 40px;
+    height: 50px;
+    position: relative;
+    top: -19px;
+    left: 120px;
+    border-radius: 100px;
+}
+.boca
+{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 150px;
+    left: 110px;
+    border-radius: 100px;
+}
+.boc
+{
+    background-color: rgb(243, 208, 165);
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -20px;
+    left: -0px;
+    border-radius: 100px;
+}
+.ropa
+{
+    background-color: rgb(2, 2, 51);
+    margin: 50px;
+    width: 200px;
+    height: 170px;
+    position: relative;
+    top: 120px;
+    left: -5px;
+}
+.rop
+{
+    background-color: rebeccapurple;
+    margin: 50px;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -0px;
+    left: 10px;
+}
+.ro
+{
+    background-color: black;
+    margin: 50px;
+    width: 30px;
+    height: 50px;
+    position: relative;
+    top: -0px;
+    left: -20px;
+}
+.mano
+{
+    background-color: sienna;
+    margin: 50px;
+    width: 150px;
+    height: 100px;
+    position: relative;
+    top: -100px;
+    left: 195px;
+}
+.brazo
+{
+    background-color: rgb(243, 208, 165);
+    margin: 50px;
+    width: 100px;
+    height: 80px;
+    position: relative;
+    top: 90px;
+    left: -30px;
+}
+.mano1
+{
+    background-color: sienna;
+    margin: 50px;
+    width: 150px;
+    height: 100px;
+    position: relative;
+    top: -250px;
+    left: -150px;
+}
+.brazo1
+{
+    background-color: rgb(243, 208, 165);
+    margin: 50px;
+    width: 100px;
+    height: 80px;
+    position: relative;
+    top: 90px;
+    left: -30px;
+}
